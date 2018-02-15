@@ -21,6 +21,7 @@
 import random
 
 #This comment line is a test
+#this comment line is to compare this branch from the master branch.
 
 class Card (object):
   RANKS = (2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14)
